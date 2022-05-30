@@ -73,7 +73,7 @@ label[for="new-task"] {
   text-transform: uppercase;
 }
 input[type="text"] {
-  margin: 0;
+  margin-top: 20px;
   font-size: 18px;
   line-height: 18px;
   height: 21px;
